@@ -15,7 +15,7 @@ Investigar estas fuentes de datos: Google Finance, IEX Cloud, Alpha Vantage, Wor
 
 ### Google Finance
 googlefinance0.7
-Link a la documentacion: https://pypi.org/project/googlefinance/
+Link a la documentacion en [pypi.org:]( https://pypi.org/project/googlefinance/)
 
 ### IEX Cloud (opcion paga)
 Link a la web: https://iexcloud.io/
