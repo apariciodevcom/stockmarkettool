@@ -17,3 +17,7 @@ Link a la documentacion: https://www.alphavantage.co/documentation
 
 # Intrinio
 Link a la web: https://intrinio.com/
+
+# NASDAQ Data Link
+
+Link a la documentacion: https://github.com/Nasdaq/data-link-python
