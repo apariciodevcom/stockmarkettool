@@ -14,3 +14,6 @@ Link a la web: https://iexcloud.io/
 
 # Alpha Vantage
 Link a la documentacion: [(https://www.alphavantage.co/documentation/)]https://www.alphavantage.co/documentation/
+
+# Intrinio
+Link a la web: [(https://intrinio.com/)] jlo
