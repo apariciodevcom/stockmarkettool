@@ -14,18 +14,17 @@ Investigar estas fuentes de datos: Google Finance, IEX Cloud, Alpha Vantage, Wor
 5. Nasdaq Data Link
 
 ### Google Finance
-googlefinance0.7
-Link a la documentacion en [pypi.org:]( https://pypi.org/project/googlefinance/)
+Link a la documentacion de googlefinance0.7 en [pypi.org:]( https://pypi.org/project/googlefinance/)
 
 ### IEX Cloud (opcion paga)
-Link a la web: https://iexcloud.io/
+Link a la web: [https://iexcloud.io/](https://iexcloud.io/)
 
 ### Alpha Vantage
-Link a la documentacion: https://www.alphavantage.co/documentation
+Link a la documentacion: [https://www.alphavantage.co/documentation](https://www.alphavantage.co/documentation)
 
 ### Intrinio
-Link a la web: https://intrinio.com/
+Link a la web: [https://intrinio.com/](https://www.alphavantage.co/documentation)
 
 ### NASDAQ Data Link
 
-Link a la documentacion: https://github.com/Nasdaq/data-link-python
+Link a la documentacion: [https://github.com/Nasdaq/data-link-python](https://www.alphavantage.co/documentation)
