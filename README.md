@@ -27,6 +27,6 @@ Link a la web: [https://intrinio.com/](https://www.alphavantage.co/documentation
 
 ### NASDAQ Data Link
 
-Link a la documentacion: [https://github.com/Nasdaq/data-link-python](https://www.alphavantage.co/documentation)
+Link a la documentacion: [https://data.nasdaq.com/](https://data.nasdaq.com/)
 ***
 
