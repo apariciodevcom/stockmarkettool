@@ -13,6 +13,10 @@ Investigar estas fuentes de datos: Google Finance, IEX Cloud, Alpha Vantage, Wor
 4. Intrinio
 5. Nasdaq Data Link
 
+### Yahoo Finance
+
+Info: https://algotrading101.com/learn/yfinance-guide/
+
 ### Google Finance
 Link a la documentacion de googlefinance0.7 en [pypi.org:]( https://pypi.org/project/googlefinance/)
 
