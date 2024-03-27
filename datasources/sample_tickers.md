@@ -1,5 +1,5 @@
 # List of tickers in the A version (for testing)
-VZ - Verizon
-DM - Desktop Metal
-JBL - Jabil Circuit
-NVDA - Nvidia Corporation
+1. VZ - Verizon
+2. DM - Desktop Metal
+3. JBL - Jabil Circuit
+4. NVDA - Nvidia Corporation
