@@ -3,3 +3,4 @@
 2. DM - Desktop Metal
 3. JBL - Jabil Circuit
 4. NVDA - Nvidia Corporation
+5. XOM - Exxon Mobil
