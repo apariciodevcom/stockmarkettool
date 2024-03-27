@@ -22,3 +22,5 @@ Link a la web: [https://iexcloud.io/](https://iexcloud.io/)
 ### Alpha Vantage
 Link a la documentacion: [https://www.alphavantage.co/documentation](https://www.alphavantage.co/documentation)
 
+### NASDAQ Data Link
+Sharadar Equity Prices (USD 49)
