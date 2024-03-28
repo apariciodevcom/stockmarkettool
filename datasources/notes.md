@@ -20,7 +20,8 @@ Link a la documentacion de googlefinance0.7 en [pypi.org:]( https://pypi.org/pro
 Link a la web: [https://iexcloud.io/](https://iexcloud.io/)
 
 ### Alpha Vantage
+Provee un servicio gratuito de consulta a la API de hasta 25 requests dierios, el acceso premium inicia desde los 49.99 USD mensuales y proporciona 75 API request por minuto (sin limite diario)
 Link a la documentacion: [https://www.alphavantage.co/documentation](https://www.alphavantage.co/documentation)
 
 ### NASDAQ Data Link
-Sharadar Equity Prices (USD 49)
+Sharadar Equity Prices (USD 49/month)
